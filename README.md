@@ -3,7 +3,7 @@ Stream from GDrive link in your favourite video player using your GDrive API_KEY
 
 # Contents:
 * [Requirements](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#requirements)
-* [How to](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how-to)
+* [How to?](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how-to)
 * [stream.py](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#streampy)
 * [Credits](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#credits)
 
@@ -35,7 +35,7 @@ api_key can be obtained from Google Cloud Console. Following pictures guide you 
 4. Copy and save the api_key somewhere.
 
 ## stream.py
-This is where you obtain the streamable link. As this is my first project, I thought of writing it in python with just two functions. That is `print` and `input`.
+This is where you obtain the streamable link. As this is my first project, I thought of writing it in python with just two functions. That is `print` and `input`. You can get the py from [here]()
 
 ```python
 prompt = "Enter your file_id:" 
