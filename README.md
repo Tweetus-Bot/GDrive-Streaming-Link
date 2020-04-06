@@ -35,7 +35,7 @@ api_key can be obtained from Google Cloud Console. Following pictures guide you 
 4. Copy and save the api_key somewhere.
 
 ## stream.py
-This is where you obtain the streamable link. As this is my first project, I thought of writing it in python with just two functions. That is `print` and `input`. You can get the py from [here]()
+This is where you obtain the streamable link. As this is my first project, I thought of writing it in python with just two functions. That is `print` and `input`. You can get the py from [here](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/stream.py)
 
 ```python
 prompt = "Enter your file_id:" 
