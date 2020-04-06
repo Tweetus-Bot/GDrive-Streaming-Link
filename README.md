@@ -3,7 +3,7 @@ Stream from GDrive link in your favourite video player using your GDrive API_KEY
 
 ## Contents:
 * [Requirements](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#requirements)
-* [How to](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how_to)
+* [How to](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how-to)
 * [stream.py]()
 
 ## Requirements:
