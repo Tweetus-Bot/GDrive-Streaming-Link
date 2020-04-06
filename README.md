@@ -12,8 +12,8 @@ Stream from GDrive link in your favourite video player using your GDrive API_KEY
 2. api_key from your Google Cloud Console.
        
 ## How to?
-* [How to get file_id?]()
-* [How to get api_key?]()
+* [How to get file_id?](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how-to-get-file_id)
+* [How to get api_key?](https://github.com/Tweetus-Bot/GDrive-Streaming-Link/blob/master/README.md#how-to-get-api_key)
 ### How to get file_id?
 - file_id can be obtained: 
   - from a GDrive link which is already publicly (or)
