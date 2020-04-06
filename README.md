@@ -38,11 +38,14 @@ api_key can be obtained from Google Cloud Console. Following pictures guide you 
 This is where you obtain the streamable link. As this is my first project, I thought of writing it in python with just two functions. That is `print` and `input`.
 
 ```python
-!/usr/bin/python
+prompt = "Enter your file_id:" 
+file_id = input(prompt)
 
-file_id = input(Enter your file_id: )
-
-api_key = input(Enter your api_key: )
+prompt = "Enter your api_key:"
+api_key = input(prompt)
 
 print(f"https://www.googleapis.com/drive/v3/files/{file_id}/?key={api_key}&alt=media")
 ```
+
+## Credits
+Thanks to [Yuno](https://github.com/yunooooo/Google-Drive-Streamable-Link-Generator).
